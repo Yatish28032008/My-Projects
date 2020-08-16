@@ -1,0 +1,101 @@
+.links{
+    background-color : #32CD32;
+justify-content: center;
+}
+a{
+ text-decoration: none;
+margin : 150px;
+padding : 150px;
+
+}
+.sm{
+  background-color: #FFA500;
+    border : solid;
+    display : flex;
+    flex-direction: column;
+}
+
+body{
+background-color: #808080;
+}
+.game1{
+    position : relative;
+    border:solid;
+    border-color: #00FFFF;
+    margin : 50px;
+    padding-left: 30px;
+    background-color: #9600E3;
+}
+/*
+.game1 p{
+    position : absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%,-50%);
+    opacity:0;
+}
+.game1:hover p{
+    opacity:1;
+}
+.game1:hover img{
+    opacity:0.33;
+}
+*/
+.game1 *{
+margin-left:10px;
+padding-left:10px;
+}
+
+.game2{
+    background-color: #228B22;
+    border:solid;
+    border-color: #00FFFF;
+    margin : 50px;
+    padding-left: 30px;
+}
+.game2 *{
+    margin-left:10px;
+    padding-left:10px;
+    }
+.game3{
+    border:solid;
+    border-color: #00FFFF;
+    background-color: #00FFFF;
+    margin : 50px;
+    padding-left: 30px;
+}
+.game3 *{
+    margin-left:10px;
+    padding-left:10px;
+    }
+.game4{
+    border : solid;
+    border-color: #00FFFF;
+    background-color: #FFFF00;
+    margin : 50px;
+    padding-left: 30px;
+}
+.game4 *{
+    margin-left:10px;
+    padding-left:10px;
+    }
+.game5{
+    border : solid;
+    border-color: #00FFFF;
+    background-color:#9600E3;
+    margin : 50px;
+    padding-left: 30px;
+}
+.game5 *{
+    margin-left:10px;
+    padding-left:10px;
+    }
+    .utube{
+        border : solid;
+    }
+    .fb{
+        border : solid;
+    }
+    .insta{
+        border : solid;
+    }
